@@ -1,0 +1,9 @@
+key_one: "value_one"
+key_two:
+  - value1
+  - value2
+  - value3
+key_three:
+  subkey_one: subvalue_1
+  subkey_two: subvalue_2
+  subkey_three: subvalue_3
